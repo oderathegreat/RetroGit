@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:padding="10dp"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -28,6 +29,6 @@
         android:layout_alignStart="@+id/editText"
         android:layout_marginBottom="205dp"
         android:background="#18adf7"
-        android:text="LOGIN"
+        android:text="LOG IN"
         android:textColor="#FFF" />
 </RelativeLayout>
